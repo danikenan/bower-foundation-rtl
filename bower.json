@@ -1,0 +1,22 @@
+{
+  "name": "bower-foundation-rtl",
+  "version": "5.0.3",
+  "homepage": "https://github.com/danikenan/bower-foundation-rtl",
+  "authors": [
+    "Dani Kenan <danikenan@gmail.com>"
+  ],
+  "description": "bower package for foundation rtl build (minimalistic approach)",
+  "main": "css/foundation-rtl.css",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.0.3"
+  }
+}
